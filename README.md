@@ -2,7 +2,7 @@
 
 Interactive data visualisation exploring **daily cycling rhythm** (time) and **station differences** (geography) across Dublin using publicly available cycle counter data.
 
-[![2-minute walkthrough](https://img.youtube.com/vi/y4HOfzA9i00/hqdefault.jpg)](https://www.youtube.com/watch?v=y4HOfzA9i00)
+[![2-minute walkthrough](https://github.com/XxAG17xX/data-visualisation-projects/blob/main/exported.png)](https://www.youtube.com/watch?v=y4HOfzA9i00)
 > Click to watch a 2-minute narrated walkthrough.
 
 ---
