@@ -61,6 +61,14 @@ Optional fonts:
 3. Open the sketch and press **Run**.
 ---
 
+## Controls
+
+- **W / E**: toggle Weekdays / Weekends
+- **← / →**: change selected hour
+- **N**: normalize radial spokes (relative pattern vs absolute volume)
+- **Mouse**: click a radial wheel, map bubble, or bar to select a station
+---
+
 ## BUT WHY DO THIS?
 
 - Turning messy, real-world civic data into a usable analytical interface.
