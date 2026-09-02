@@ -1,4 +1,4 @@
-# Dublin Cycle Counters — Rhythm & Geography (Jan–Jun 2025)
+# Dublin Cycle Counters - Rhythm & Geography (Jan–Jun 2025)
 
 Interactive data visualisation exploring **daily cycling rhythm** (time) and **station differences** (geography) across Dublin using publicly available cycle counter data.
 
